@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/fahimze/cvr",
-    "repository": "https://github.com/fahimze/cvr",
+    "website": "https://github.com/fahimze/bichamu",
+    "repository": "https://github.com/fahimze/bichamu",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
